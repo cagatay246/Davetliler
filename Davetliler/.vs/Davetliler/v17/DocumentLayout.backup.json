@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cagat\\source\\repos\\Davetliler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE382C9-BF8B-44AD-9F79-47BAE40E3EDB}|Davetliler\\Davetliler.csproj|c:\\users\\cagat\\source\\repos\\davetliler\\davetliler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE382C9-BF8B-44AD-9F79-47BAE40E3EDB}|Davetliler\\Davetliler.csproj|solutionrelative:davetliler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\Davetliler\\Davetliler\\Program.cs",
+              "RelativeDocumentMoniker": "Davetliler\\Program.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\Davetliler\\Davetliler\\Program.cs",
+              "RelativeToolTip": "Davetliler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:25:09.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
